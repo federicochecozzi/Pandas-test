@@ -1,0 +1,9 @@
+Por observación de gráfico de PCA:
+M13_01
+M13_12
+M13_16
+M13_11
+M13_14
+M5_10
+M5_09
+M5_13
